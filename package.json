@@ -1,6 +1,6 @@
 {
   "name": "beone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "shaojianheng",
   "main": "index.js",
   "bin": {
@@ -8,21 +8,15 @@
   },
   "dependencies": {
     "chalk": "^2.4.2",
-    "jsonfile": "^5.0.0",
     "shelljs": "^0.8.3",
     "yargs": "^13.2.4"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xuanxuan321/ssgit"
+    "url": "https://github.com/xuanxuan321/beone.git"
   },
   "keywords": [
-    "git",
-    "ssgit",
-    "sgit",
-    "segit",
-    "easygit",
-    "supereasygit"
+    "beone"
   ]
 }
